@@ -92,10 +92,11 @@
 ## Citation
 
 ```
-@article{gao2023lae,
-  title = {A Unified Continual Learning Framework with General Parameter-Efficient Tuning},
-  author = {Qiankun Gao, Chen Zhao, Yifan Sun, Teng Xi, Gang Zhang, Bernard Ghanem, Jian Zhang},
-  journal = {International Conference on Computer Vision (ICCV)},
-  year = {2023}
+@inproceedings{gao2023lae,
+  title={A Unified Continual Learning Framework with General Parameter-Efficient Tuning}
+  author={Gao, Qiankun and Zhao, Chen and Sun, Yifan and Xi, Teng and Zhang, Gang and Ghanem, Bernard and Zhang, Jian},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  pages={11483--11493},
+  year={2023}
 }
 ```
